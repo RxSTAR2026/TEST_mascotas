@@ -1,0 +1,5 @@
+# Rutas limpias tipo /10001 → index.html (el JS lee el número de la URL)
+/[0-9][0-9][0-9][0-9][0-9]  /index.html  200
+
+# Netlify Functions
+/.netlify/functions/*  /.netlify/functions/:splat  200

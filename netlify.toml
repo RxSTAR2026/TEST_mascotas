@@ -6,4 +6,3 @@
   node_bundler = "esbuild"
 
 # Variables de entorno (cámbialas en el panel de Netlify)
-ADM_PASS = "admin"

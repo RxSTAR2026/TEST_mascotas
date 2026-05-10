@@ -1,4 +1,4 @@
-# 🐾 BaseMascotas — ANA Art
+# 🐾 BaseMascotas — ANA Art 
 
 Sistema de fichas de mascotas con QR, desplegado en Netlify.
 
